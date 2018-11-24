@@ -1,0 +1,11 @@
+{
+  "name": "speedrun",
+  "version": "0.0.1",
+  "factorio_version": "0.16",
+  "title": "Factorio speedrunner",
+  "author": "Michel Peters",
+  "contact": "info@isemantics.nl",
+  "homepage": "https://github.com/isemantics/factorio-speedrun/",
+  "description": "Whooooooo :D",
+  "dependencies": ["base >= 0.16.1"]
+}
